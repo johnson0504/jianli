@@ -1,0 +1,107 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "natural wheel round 1",
+      "passed": true,
+      "details": [
+        "",
+        "portrait-motion",
+        "about-copy",
+        "stats-row",
+        "section-intro",
+        "project-card-inner",
+        "ability-tabs",
+        "ability-panel",
+        "field-note",
+        "timeline-item",
+        "experience-evidence",
+        "credentials",
+        "contact-main",
+        "hero"
+      ]
+    },
+    {
+      "name": "natural wheel round 2",
+      "passed": true,
+      "details": [
+        "",
+        "portrait-motion",
+        "about-copy",
+        "stats-row",
+        "section-intro",
+        "project-card-inner",
+        "ability-tabs",
+        "ability-panel",
+        "field-note",
+        "timeline-item",
+        "experience-evidence",
+        "credentials",
+        "contact-main",
+        "hero"
+      ]
+    },
+    {
+      "name": "natural wheel round 3",
+      "passed": true,
+      "details": [
+        "",
+        "portrait-motion",
+        "about-copy",
+        "stats-row",
+        "section-intro",
+        "project-card-inner",
+        "ability-tabs",
+        "ability-panel",
+        "field-note",
+        "timeline-item",
+        "experience-evidence",
+        "credentials",
+        "contact-main",
+        "hero"
+      ]
+    },
+    {
+      "name": "24px buffer retains shown",
+      "passed": true
+    },
+    {
+      "name": "fully offscreen resets",
+      "passed": true
+    },
+    {
+      "name": "reverse entry animates",
+      "passed": true
+    },
+    {
+      "name": "exact desktop 1920x1080",
+      "passed": true
+    },
+    {
+      "name": "exact desktop 1536x864",
+      "passed": true
+    },
+    {
+      "name": "exact desktop 1440x900",
+      "passed": true
+    },
+    {
+      "name": "exact desktop 1366x768",
+      "passed": true
+    },
+    {
+      "name": "partial initialization restores content",
+      "passed": true
+    },
+    {
+      "name": "partial initialization removes listeners",
+      "passed": true
+    },
+    {
+      "name": "no page errors",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "errors": []
+}

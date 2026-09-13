@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "errors": [],
+  "failed": [],
+  "video": {
+    "paused": false,
+    "time": 0.880882,
+    "width": 1800,
+    "duration": 7.403591
+  },
+  "sizes": [
+    {
+      "width": 1920,
+      "scroll": 1920
+    },
+    {
+      "width": 1440,
+      "scroll": 1440
+    },
+    {
+      "width": 1280,
+      "scroll": 1280
+    },
+    {
+      "width": 768,
+      "scroll": 768
+    },
+    {
+      "width": 390,
+      "scroll": 390
+    }
+  ]
+}

@@ -1,0 +1,1565 @@
+{
+  "passed": true,
+  "url": "http://127.0.0.1:4175/jianli",
+  "checks": [
+    {
+      "name": "layout 1920",
+      "passed": true,
+      "details": {
+        "width": 1920,
+        "scroll": 1920,
+        "header": {
+          "top": 0,
+          "bottom": 86,
+          "left": 110,
+          "right": 1810
+        },
+        "eyebrow": {
+          "top": 219.859375,
+          "bottom": 239.046875,
+          "left": 110,
+          "right": 1300
+        },
+        "buttons": {
+          "top": 777.125,
+          "bottom": 834.125,
+          "left": 110,
+          "right": 1300
+        },
+        "bottom": {
+          "top": 985,
+          "bottom": 1052,
+          "left": 110,
+          "right": 1810
+        },
+        "photo": {
+          "top": 1468.609375,
+          "bottom": 1698.90625,
+          "left": 381.65625,
+          "right": 562.125
+        },
+        "name": {
+          "top": 1795.578125,
+          "bottom": 1895.078125,
+          "left": 189.890625,
+          "right": 753.890625
+        },
+        "bodySize": "18px"
+      }
+    },
+    {
+      "name": "readable body 1920",
+      "passed": true
+    },
+    {
+      "name": "reduced motion 1920",
+      "passed": true
+    },
+    {
+      "name": "nav 1920 about",
+      "passed": true,
+      "details": {
+        "id": "about",
+        "hash": "#about",
+        "top": 110,
+        "header": 86,
+        "active": "#about"
+      }
+    },
+    {
+      "name": "nav 1920 projects",
+      "passed": true,
+      "details": {
+        "id": "projects",
+        "hash": "#projects",
+        "top": 109.765625,
+        "header": 86,
+        "active": "#projects"
+      }
+    },
+    {
+      "name": "nav 1920 abilities",
+      "passed": true,
+      "details": {
+        "id": "abilities",
+        "hash": "#abilities",
+        "top": 109.828125,
+        "header": 86,
+        "active": "#abilities"
+      }
+    },
+    {
+      "name": "nav 1920 experience",
+      "passed": true,
+      "details": {
+        "id": "experience",
+        "hash": "#experience",
+        "top": 110.21875,
+        "header": 86,
+        "active": "#experience"
+      }
+    },
+    {
+      "name": "back 1920",
+      "passed": true
+    },
+    {
+      "name": "forward 1920",
+      "passed": true
+    },
+    {
+      "name": "manual scroll 1920",
+      "passed": true
+    },
+    {
+      "name": "layout 1440",
+      "passed": true,
+      "details": {
+        "width": 1440,
+        "scroll": 1440,
+        "header": {
+          "top": 0,
+          "bottom": 86,
+          "left": 48,
+          "right": 1392
+        },
+        "eyebrow": {
+          "top": 155.640625,
+          "bottom": 174.828125,
+          "left": 48,
+          "right": 988.796875
+        },
+        "buttons": {
+          "top": 664.359375,
+          "bottom": 718.359375,
+          "left": 48,
+          "right": 988.796875
+        },
+        "bottom": {
+          "top": 805,
+          "bottom": 872,
+          "left": 48,
+          "right": 1392
+        },
+        "photo": {
+          "top": 1276.078125,
+          "bottom": 1497.75,
+          "left": 245.59375,
+          "right": 419.3125
+        },
+        "name": {
+          "top": 1592.953125,
+          "bottom": 1692.453125,
+          "left": 61,
+          "right": 603.90625
+        },
+        "bodySize": "16px"
+      }
+    },
+    {
+      "name": "readable body 1440",
+      "passed": true
+    },
+    {
+      "name": "reduced motion 1440",
+      "passed": true
+    },
+    {
+      "name": "nav 1440 about",
+      "passed": true,
+      "details": {
+        "id": "about",
+        "hash": "#about",
+        "top": 110,
+        "header": 86,
+        "active": "#about"
+      }
+    },
+    {
+      "name": "nav 1440 projects",
+      "passed": true,
+      "details": {
+        "id": "projects",
+        "hash": "#projects",
+        "top": 110.140625,
+        "header": 86,
+        "active": "#projects"
+      }
+    },
+    {
+      "name": "nav 1440 abilities",
+      "passed": true,
+      "details": {
+        "id": "abilities",
+        "hash": "#abilities",
+        "top": 109.5,
+        "header": 86,
+        "active": "#abilities"
+      }
+    },
+    {
+      "name": "nav 1440 experience",
+      "passed": true,
+      "details": {
+        "id": "experience",
+        "hash": "#experience",
+        "top": 109.625,
+        "header": 86,
+        "active": "#experience"
+      }
+    },
+    {
+      "name": "back 1440",
+      "passed": true
+    },
+    {
+      "name": "forward 1440",
+      "passed": true
+    },
+    {
+      "name": "manual scroll 1440",
+      "passed": true
+    },
+    {
+      "name": "layout 1280",
+      "passed": true,
+      "details": {
+        "width": 1280,
+        "scroll": 1280,
+        "header": {
+          "top": 0,
+          "bottom": 86,
+          "left": 48,
+          "right": 1232
+        },
+        "eyebrow": {
+          "top": 119.421875,
+          "bottom": 138.609375,
+          "left": 48,
+          "right": 876.796875
+        },
+        "buttons": {
+          "top": 600.578125,
+          "bottom": 654.578125,
+          "left": 48,
+          "right": 876.796875
+        },
+        "bottom": {
+          "top": 705,
+          "bottom": 772,
+          "left": 48,
+          "right": 1232
+        },
+        "photo": {
+          "top": 1162.015625,
+          "bottom": 1355.90625,
+          "left": 222.4609375,
+          "right": 374.4140625
+        },
+        "name": {
+          "top": 1446.34375,
+          "bottom": 1545.84375,
+          "left": 61,
+          "right": 535.875
+        },
+        "bodySize": "16px"
+      }
+    },
+    {
+      "name": "readable body 1280",
+      "passed": true
+    },
+    {
+      "name": "reduced motion 1280",
+      "passed": true
+    },
+    {
+      "name": "nav 1280 about",
+      "passed": true,
+      "details": {
+        "id": "about",
+        "hash": "#about",
+        "top": 110,
+        "header": 86,
+        "active": "#about"
+      }
+    },
+    {
+      "name": "nav 1280 projects",
+      "passed": true,
+      "details": {
+        "id": "projects",
+        "hash": "#projects",
+        "top": 109.53125,
+        "header": 86,
+        "active": "#projects"
+      }
+    },
+    {
+      "name": "nav 1280 abilities",
+      "passed": true,
+      "details": {
+        "id": "abilities",
+        "hash": "#abilities",
+        "top": 109.96875,
+        "header": 86,
+        "active": "#abilities"
+      }
+    },
+    {
+      "name": "nav 1280 experience",
+      "passed": true,
+      "details": {
+        "id": "experience",
+        "hash": "#experience",
+        "top": 110.171875,
+        "header": 86,
+        "active": "#experience"
+      }
+    },
+    {
+      "name": "back 1280",
+      "passed": true
+    },
+    {
+      "name": "forward 1280",
+      "passed": true
+    },
+    {
+      "name": "manual scroll 1280",
+      "passed": true
+    },
+    {
+      "name": "layout 1113",
+      "passed": true,
+      "details": {
+        "width": 1113,
+        "scroll": 1113,
+        "header": {
+          "top": 0,
+          "bottom": 86,
+          "left": 32,
+          "right": 1081
+        },
+        "eyebrow": {
+          "top": 133.796875,
+          "bottom": 152.984375,
+          "left": 32,
+          "right": 766.296875
+        },
+        "buttons": {
+          "top": 586.203125,
+          "bottom": 640.203125,
+          "left": 32,
+          "right": 766.296875
+        },
+        "bottom": {
+          "top": 705,
+          "bottom": 772,
+          "left": 32,
+          "right": 1081
+        },
+        "photo": {
+          "top": 1154.890625,
+          "bottom": 1325.703125,
+          "left": 187.2421875,
+          "right": 321.1015625
+        },
+        "name": {
+          "top": 1412.1875,
+          "bottom": 1508.1875,
+          "left": 45,
+          "right": 463.34375
+        },
+        "bodySize": "16px"
+      }
+    },
+    {
+      "name": "readable body 1113",
+      "passed": true
+    },
+    {
+      "name": "reduced motion 1113",
+      "passed": true
+    },
+    {
+      "name": "nav 1113 about",
+      "passed": true,
+      "details": {
+        "id": "about",
+        "hash": "#about",
+        "top": 110,
+        "header": 86,
+        "active": "#about"
+      }
+    },
+    {
+      "name": "nav 1113 projects",
+      "passed": true,
+      "details": {
+        "id": "projects",
+        "hash": "#projects",
+        "top": 109.9375,
+        "header": 86,
+        "active": "#projects"
+      }
+    },
+    {
+      "name": "nav 1113 abilities",
+      "passed": true,
+      "details": {
+        "id": "abilities",
+        "hash": "#abilities",
+        "top": 110.109375,
+        "header": 86,
+        "active": "#abilities"
+      }
+    },
+    {
+      "name": "nav 1113 experience",
+      "passed": true,
+      "details": {
+        "id": "experience",
+        "hash": "#experience",
+        "top": 109.859375,
+        "header": 86,
+        "active": "#experience"
+      }
+    },
+    {
+      "name": "back 1113",
+      "passed": true
+    },
+    {
+      "name": "forward 1113",
+      "passed": true
+    },
+    {
+      "name": "manual scroll 1113",
+      "passed": true
+    },
+    {
+      "name": "layout 768",
+      "passed": true,
+      "details": {
+        "width": 768,
+        "scroll": 768,
+        "header": {
+          "top": 0,
+          "bottom": 72,
+          "left": 24,
+          "right": 744
+        },
+        "eyebrow": {
+          "top": 195.765625,
+          "bottom": 214.953125,
+          "left": 24,
+          "right": 744
+        },
+        "buttons": {
+          "top": 620.234375,
+          "bottom": 674.234375,
+          "left": 24,
+          "right": 744
+        },
+        "bottom": {
+          "top": 805,
+          "bottom": 872,
+          "left": 24,
+          "right": 744
+        },
+        "photo": {
+          "top": 1258.53125,
+          "bottom": 1387.546875,
+          "left": 144.4453125,
+          "right": 245.5546875
+        },
+        "name": {
+          "top": 1456.6875,
+          "bottom": 1567.65625,
+          "left": 37,
+          "right": 353
+        },
+        "bodySize": "15px"
+      }
+    },
+    {
+      "name": "readable body 768",
+      "passed": true
+    },
+    {
+      "name": "reduced motion 768",
+      "passed": true
+    },
+    {
+      "name": "nav 768 about",
+      "passed": true,
+      "details": {
+        "id": "about",
+        "hash": "#about",
+        "top": 96,
+        "header": 72,
+        "active": "#about"
+      }
+    },
+    {
+      "name": "menu closes 768 about",
+      "passed": true
+    },
+    {
+      "name": "nav 768 projects",
+      "passed": true,
+      "details": {
+        "id": "projects",
+        "hash": "#projects",
+        "top": 96.40625,
+        "header": 72,
+        "active": "#projects"
+      }
+    },
+    {
+      "name": "menu closes 768 projects",
+      "passed": true
+    },
+    {
+      "name": "nav 768 abilities",
+      "passed": true,
+      "details": {
+        "id": "abilities",
+        "hash": "#abilities",
+        "top": 95.640625,
+        "header": 72,
+        "active": "#abilities"
+      }
+    },
+    {
+      "name": "menu closes 768 abilities",
+      "passed": true
+    },
+    {
+      "name": "nav 768 experience",
+      "passed": true,
+      "details": {
+        "id": "experience",
+        "hash": "#experience",
+        "top": 96,
+        "header": 72,
+        "active": "#experience"
+      }
+    },
+    {
+      "name": "menu closes 768 experience",
+      "passed": true
+    },
+    {
+      "name": "back 768",
+      "passed": true
+    },
+    {
+      "name": "forward 768",
+      "passed": true
+    },
+    {
+      "name": "manual scroll 768",
+      "passed": true
+    },
+    {
+      "name": "layout 511",
+      "passed": true,
+      "details": {
+        "width": 511,
+        "scroll": 511,
+        "header": {
+          "top": 0,
+          "bottom": 68,
+          "left": 20,
+          "right": 491
+        },
+        "eyebrow": {
+          "top": 193.296875,
+          "bottom": 207.6875,
+          "left": 20,
+          "right": 491
+        },
+        "buttons": {
+          "top": 572.703125,
+          "bottom": 620.703125,
+          "left": 20,
+          "right": 491
+        },
+        "bottom": {
+          "top": 759,
+          "bottom": 820,
+          "left": 20,
+          "right": 491
+        },
+        "photo": {
+          "top": 1125.828125,
+          "bottom": 1292.421875,
+          "left": 190.2265625,
+          "right": 320.7734375
+        },
+        "name": {
+          "top": 1368,
+          "bottom": 1454.25,
+          "left": 51.5,
+          "right": 459.5
+        },
+        "bodySize": "15px"
+      }
+    },
+    {
+      "name": "readable body 511",
+      "passed": true
+    },
+    {
+      "name": "reduced motion 511",
+      "passed": true
+    },
+    {
+      "name": "nav 511 about",
+      "passed": true,
+      "details": {
+        "id": "about",
+        "hash": "#about",
+        "top": 92,
+        "header": 68,
+        "active": "#about"
+      }
+    },
+    {
+      "name": "menu closes 511 about",
+      "passed": true
+    },
+    {
+      "name": "nav 511 projects",
+      "passed": true,
+      "details": {
+        "id": "projects",
+        "hash": "#projects",
+        "top": 92.265625,
+        "header": 68,
+        "active": "#projects"
+      }
+    },
+    {
+      "name": "menu closes 511 projects",
+      "passed": true
+    },
+    {
+      "name": "nav 511 abilities",
+      "passed": true,
+      "details": {
+        "id": "abilities",
+        "hash": "#abilities",
+        "top": 91.640625,
+        "header": 68,
+        "active": "#abilities"
+      }
+    },
+    {
+      "name": "menu closes 511 abilities",
+      "passed": true
+    },
+    {
+      "name": "nav 511 experience",
+      "passed": true,
+      "details": {
+        "id": "experience",
+        "hash": "#experience",
+        "top": 92.203125,
+        "header": 68,
+        "active": "#experience"
+      }
+    },
+    {
+      "name": "menu closes 511 experience",
+      "passed": true
+    },
+    {
+      "name": "back 511",
+      "passed": true
+    },
+    {
+      "name": "forward 511",
+      "passed": true
+    },
+    {
+      "name": "manual scroll 511",
+      "passed": true
+    },
+    {
+      "name": "layout 390",
+      "passed": true,
+      "details": {
+        "width": 390,
+        "scroll": 390,
+        "header": {
+          "top": 0,
+          "bottom": 68,
+          "left": 20,
+          "right": 370
+        },
+        "eyebrow": {
+          "top": 211.046875,
+          "bottom": 225.4375,
+          "left": 20,
+          "right": 370
+        },
+        "buttons": {
+          "top": 554.953125,
+          "bottom": 602.953125,
+          "left": 20,
+          "right": 370
+        },
+        "bottom": {
+          "top": 759,
+          "bottom": 820,
+          "left": 20,
+          "right": 370
+        },
+        "photo": {
+          "top": 1117.4375,
+          "bottom": 1251.359375,
+          "left": 142.5234375,
+          "right": 247.4765625
+        },
+        "name": {
+          "top": 1321.328125,
+          "bottom": 1407.578125,
+          "left": 31,
+          "right": 359
+        },
+        "bodySize": "15px"
+      }
+    },
+    {
+      "name": "readable body 390",
+      "passed": true
+    },
+    {
+      "name": "reduced motion 390",
+      "passed": true
+    },
+    {
+      "name": "nav 390 about",
+      "passed": true,
+      "details": {
+        "id": "about",
+        "hash": "#about",
+        "top": 92,
+        "header": 68,
+        "active": "#about"
+      }
+    },
+    {
+      "name": "menu closes 390 about",
+      "passed": true
+    },
+    {
+      "name": "nav 390 projects",
+      "passed": true,
+      "details": {
+        "id": "projects",
+        "hash": "#projects",
+        "top": 91.59375,
+        "header": 68,
+        "active": "#projects"
+      }
+    },
+    {
+      "name": "menu closes 390 projects",
+      "passed": true
+    },
+    {
+      "name": "nav 390 abilities",
+      "passed": true,
+      "details": {
+        "id": "abilities",
+        "hash": "#abilities",
+        "top": 91.9375,
+        "header": 68,
+        "active": "#abilities"
+      }
+    },
+    {
+      "name": "menu closes 390 abilities",
+      "passed": true
+    },
+    {
+      "name": "nav 390 experience",
+      "passed": true,
+      "details": {
+        "id": "experience",
+        "hash": "#experience",
+        "top": 92.484375,
+        "header": 68,
+        "active": "#experience"
+      }
+    },
+    {
+      "name": "menu closes 390 experience",
+      "passed": true
+    },
+    {
+      "name": "back 390",
+      "passed": true
+    },
+    {
+      "name": "forward 390",
+      "passed": true
+    },
+    {
+      "name": "manual scroll 390",
+      "passed": true
+    },
+    {
+      "name": "layout 320",
+      "passed": true,
+      "details": {
+        "width": 320,
+        "scroll": 320,
+        "header": {
+          "top": 0,
+          "bottom": 68,
+          "left": 20,
+          "right": 300
+        },
+        "eyebrow": {
+          "top": 208.5625,
+          "bottom": 222.953125,
+          "left": 20,
+          "right": 300
+        },
+        "buttons": {
+          "top": 557.4375,
+          "bottom": 605.4375,
+          "left": 20,
+          "right": 300
+        },
+        "bottom": {
+          "top": 759,
+          "bottom": 820,
+          "left": 20,
+          "right": 300
+        },
+        "photo": {
+          "top": 1168.578125,
+          "bottom": 1273.921875,
+          "left": 118.7265625,
+          "right": 201.2734375
+        },
+        "name": {
+          "top": 1339,
+          "bottom": 1416.5,
+          "left": 31,
+          "right": 289
+        },
+        "bodySize": "15px"
+      }
+    },
+    {
+      "name": "readable body 320",
+      "passed": true
+    },
+    {
+      "name": "reduced motion 320",
+      "passed": true
+    },
+    {
+      "name": "nav 320 about",
+      "passed": true,
+      "details": {
+        "id": "about",
+        "hash": "#about",
+        "top": 91.5,
+        "header": 68,
+        "active": "#about"
+      }
+    },
+    {
+      "name": "menu closes 320 about",
+      "passed": true
+    },
+    {
+      "name": "nav 320 projects",
+      "passed": true,
+      "details": {
+        "id": "projects",
+        "hash": "#projects",
+        "top": 92.3125,
+        "header": 68,
+        "active": "#projects"
+      }
+    },
+    {
+      "name": "menu closes 320 projects",
+      "passed": true
+    },
+    {
+      "name": "nav 320 abilities",
+      "passed": true,
+      "details": {
+        "id": "abilities",
+        "hash": "#abilities",
+        "top": 91.5,
+        "header": 68,
+        "active": "#abilities"
+      }
+    },
+    {
+      "name": "menu closes 320 abilities",
+      "passed": true
+    },
+    {
+      "name": "nav 320 experience",
+      "passed": true,
+      "details": {
+        "id": "experience",
+        "hash": "#experience",
+        "top": 92.34375,
+        "header": 68,
+        "active": "#experience"
+      }
+    },
+    {
+      "name": "menu closes 320 experience",
+      "passed": true
+    },
+    {
+      "name": "back 320",
+      "passed": true
+    },
+    {
+      "name": "forward 320",
+      "passed": true
+    },
+    {
+      "name": "manual scroll 320",
+      "passed": true
+    },
+    {
+      "name": "video decodes",
+      "passed": true
+    },
+    {
+      "name": "manual pause survives navigation",
+      "passed": true
+    },
+    {
+      "name": "offscreen pause",
+      "passed": true
+    },
+    {
+      "name": "onscreen resume",
+      "passed": true
+    },
+    {
+      "name": "ability 0",
+      "passed": true
+    },
+    {
+      "name": "contrast 0 .ability-description",
+      "passed": true,
+      "details": {
+        "ratio": 9.747326414833013
+      }
+    },
+    {
+      "name": "contrast 0 .ability-panel .tags>span",
+      "passed": true,
+      "details": {
+        "ratio": 10.202588338617808
+      }
+    },
+    {
+      "name": "contrast 0 .ability-proof",
+      "passed": true,
+      "details": {
+        "ratio": 9.72923608581413
+      }
+    },
+    {
+      "name": "contrast 0 .ability-panel h3",
+      "passed": true,
+      "details": {
+        "ratio": 11.998882920566086
+      }
+    },
+    {
+      "name": "ability 1",
+      "passed": true
+    },
+    {
+      "name": "contrast 1 .ability-description",
+      "passed": true,
+      "details": {
+        "ratio": 9.747326414833013
+      }
+    },
+    {
+      "name": "contrast 1 .ability-panel .tags>span",
+      "passed": true,
+      "details": {
+        "ratio": 10.202588338617808
+      }
+    },
+    {
+      "name": "contrast 1 .ability-proof",
+      "passed": true,
+      "details": {
+        "ratio": 9.72923608581413
+      }
+    },
+    {
+      "name": "contrast 1 .ability-panel h3",
+      "passed": true,
+      "details": {
+        "ratio": 11.998882920566086
+      }
+    },
+    {
+      "name": "ability 2",
+      "passed": true
+    },
+    {
+      "name": "contrast 2 .ability-description",
+      "passed": true,
+      "details": {
+        "ratio": 9.747326414833013
+      }
+    },
+    {
+      "name": "contrast 2 .ability-panel .tags>span",
+      "passed": true,
+      "details": {
+        "ratio": 10.202588338617808
+      }
+    },
+    {
+      "name": "contrast 2 .ability-proof",
+      "passed": true,
+      "details": {
+        "ratio": 9.72923608581413
+      }
+    },
+    {
+      "name": "contrast 2 .ability-panel h3",
+      "passed": true,
+      "details": {
+        "ratio": 11.998882920566086
+      }
+    },
+    {
+      "name": "ability 3",
+      "passed": true
+    },
+    {
+      "name": "contrast 3 .ability-description",
+      "passed": true,
+      "details": {
+        "ratio": 9.747326414833013
+      }
+    },
+    {
+      "name": "contrast 3 .ability-panel .tags>span",
+      "passed": true,
+      "details": {
+        "ratio": 10.202588338617808
+      }
+    },
+    {
+      "name": "contrast 3 .ability-proof",
+      "passed": true,
+      "details": {
+        "ratio": 9.72923608581413
+      }
+    },
+    {
+      "name": "contrast 3 .ability-panel h3",
+      "passed": true,
+      "details": {
+        "ratio": 11.998882920566086
+      }
+    },
+    {
+      "name": "ability keyboard",
+      "passed": true
+    },
+    {
+      "name": "filter AI 应用",
+      "passed": true
+    },
+    {
+      "name": "filter 自动化",
+      "passed": true
+    },
+    {
+      "name": "filter 工程交付",
+      "passed": true
+    },
+    {
+      "name": "filter 全部作品",
+      "passed": true
+    },
+    {
+      "name": "gallery seven",
+      "passed": true
+    },
+    {
+      "name": "zoom",
+      "passed": true
+    },
+    {
+      "name": "gallery Escape",
+      "passed": true
+    },
+    {
+      "name": "four resume files",
+      "passed": true
+    },
+    {
+      "name": "PDF ai-automation.pdf",
+      "passed": true
+    },
+    {
+      "name": "PDF python-robotics.pdf",
+      "passed": true
+    },
+    {
+      "name": "PDF frontend-product.pdf",
+      "passed": true
+    },
+    {
+      "name": "PDF product-delivery.pdf",
+      "passed": true
+    },
+    {
+      "name": "copy wechat",
+      "passed": true
+    },
+    {
+      "name": "direct hash",
+      "passed": true,
+      "details": {
+        "id": "experience",
+        "hash": "#experience",
+        "top": 109.625,
+        "header": 86,
+        "active": "#experience"
+      }
+    },
+    {
+      "name": "video fallback",
+      "passed": true
+    },
+    {
+      "name": "no JS errors",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "no local failed responses",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "sizes": [
+    {
+      "width": 1920,
+      "scroll": 1920,
+      "header": {
+        "top": 0,
+        "bottom": 86,
+        "left": 110,
+        "right": 1810
+      },
+      "eyebrow": {
+        "top": 219.859375,
+        "bottom": 239.046875,
+        "left": 110,
+        "right": 1300
+      },
+      "buttons": {
+        "top": 777.125,
+        "bottom": 834.125,
+        "left": 110,
+        "right": 1300
+      },
+      "bottom": {
+        "top": 985,
+        "bottom": 1052,
+        "left": 110,
+        "right": 1810
+      },
+      "photo": {
+        "top": 1468.609375,
+        "bottom": 1698.90625,
+        "left": 381.65625,
+        "right": 562.125
+      },
+      "name": {
+        "top": 1795.578125,
+        "bottom": 1895.078125,
+        "left": 189.890625,
+        "right": 753.890625
+      },
+      "bodySize": "18px"
+    },
+    {
+      "width": 1440,
+      "scroll": 1440,
+      "header": {
+        "top": 0,
+        "bottom": 86,
+        "left": 48,
+        "right": 1392
+      },
+      "eyebrow": {
+        "top": 155.640625,
+        "bottom": 174.828125,
+        "left": 48,
+        "right": 988.796875
+      },
+      "buttons": {
+        "top": 664.359375,
+        "bottom": 718.359375,
+        "left": 48,
+        "right": 988.796875
+      },
+      "bottom": {
+        "top": 805,
+        "bottom": 872,
+        "left": 48,
+        "right": 1392
+      },
+      "photo": {
+        "top": 1276.078125,
+        "bottom": 1497.75,
+        "left": 245.59375,
+        "right": 419.3125
+      },
+      "name": {
+        "top": 1592.953125,
+        "bottom": 1692.453125,
+        "left": 61,
+        "right": 603.90625
+      },
+      "bodySize": "16px"
+    },
+    {
+      "width": 1280,
+      "scroll": 1280,
+      "header": {
+        "top": 0,
+        "bottom": 86,
+        "left": 48,
+        "right": 1232
+      },
+      "eyebrow": {
+        "top": 119.421875,
+        "bottom": 138.609375,
+        "left": 48,
+        "right": 876.796875
+      },
+      "buttons": {
+        "top": 600.578125,
+        "bottom": 654.578125,
+        "left": 48,
+        "right": 876.796875
+      },
+      "bottom": {
+        "top": 705,
+        "bottom": 772,
+        "left": 48,
+        "right": 1232
+      },
+      "photo": {
+        "top": 1162.015625,
+        "bottom": 1355.90625,
+        "left": 222.4609375,
+        "right": 374.4140625
+      },
+      "name": {
+        "top": 1446.34375,
+        "bottom": 1545.84375,
+        "left": 61,
+        "right": 535.875
+      },
+      "bodySize": "16px"
+    },
+    {
+      "width": 1113,
+      "scroll": 1113,
+      "header": {
+        "top": 0,
+        "bottom": 86,
+        "left": 32,
+        "right": 1081
+      },
+      "eyebrow": {
+        "top": 133.796875,
+        "bottom": 152.984375,
+        "left": 32,
+        "right": 766.296875
+      },
+      "buttons": {
+        "top": 586.203125,
+        "bottom": 640.203125,
+        "left": 32,
+        "right": 766.296875
+      },
+      "bottom": {
+        "top": 705,
+        "bottom": 772,
+        "left": 32,
+        "right": 1081
+      },
+      "photo": {
+        "top": 1154.890625,
+        "bottom": 1325.703125,
+        "left": 187.2421875,
+        "right": 321.1015625
+      },
+      "name": {
+        "top": 1412.1875,
+        "bottom": 1508.1875,
+        "left": 45,
+        "right": 463.34375
+      },
+      "bodySize": "16px"
+    },
+    {
+      "width": 768,
+      "scroll": 768,
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 24,
+        "right": 744
+      },
+      "eyebrow": {
+        "top": 195.765625,
+        "bottom": 214.953125,
+        "left": 24,
+        "right": 744
+      },
+      "buttons": {
+        "top": 620.234375,
+        "bottom": 674.234375,
+        "left": 24,
+        "right": 744
+      },
+      "bottom": {
+        "top": 805,
+        "bottom": 872,
+        "left": 24,
+        "right": 744
+      },
+      "photo": {
+        "top": 1258.53125,
+        "bottom": 1387.546875,
+        "left": 144.4453125,
+        "right": 245.5546875
+      },
+      "name": {
+        "top": 1456.6875,
+        "bottom": 1567.65625,
+        "left": 37,
+        "right": 353
+      },
+      "bodySize": "15px"
+    },
+    {
+      "width": 511,
+      "scroll": 511,
+      "header": {
+        "top": 0,
+        "bottom": 68,
+        "left": 20,
+        "right": 491
+      },
+      "eyebrow": {
+        "top": 193.296875,
+        "bottom": 207.6875,
+        "left": 20,
+        "right": 491
+      },
+      "buttons": {
+        "top": 572.703125,
+        "bottom": 620.703125,
+        "left": 20,
+        "right": 491
+      },
+      "bottom": {
+        "top": 759,
+        "bottom": 820,
+        "left": 20,
+        "right": 491
+      },
+      "photo": {
+        "top": 1125.828125,
+        "bottom": 1292.421875,
+        "left": 190.2265625,
+        "right": 320.7734375
+      },
+      "name": {
+        "top": 1368,
+        "bottom": 1454.25,
+        "left": 51.5,
+        "right": 459.5
+      },
+      "bodySize": "15px"
+    },
+    {
+      "width": 390,
+      "scroll": 390,
+      "header": {
+        "top": 0,
+        "bottom": 68,
+        "left": 20,
+        "right": 370
+      },
+      "eyebrow": {
+        "top": 211.046875,
+        "bottom": 225.4375,
+        "left": 20,
+        "right": 370
+      },
+      "buttons": {
+        "top": 554.953125,
+        "bottom": 602.953125,
+        "left": 20,
+        "right": 370
+      },
+      "bottom": {
+        "top": 759,
+        "bottom": 820,
+        "left": 20,
+        "right": 370
+      },
+      "photo": {
+        "top": 1117.4375,
+        "bottom": 1251.359375,
+        "left": 142.5234375,
+        "right": 247.4765625
+      },
+      "name": {
+        "top": 1321.328125,
+        "bottom": 1407.578125,
+        "left": 31,
+        "right": 359
+      },
+      "bodySize": "15px"
+    },
+    {
+      "width": 320,
+      "scroll": 320,
+      "header": {
+        "top": 0,
+        "bottom": 68,
+        "left": 20,
+        "right": 300
+      },
+      "eyebrow": {
+        "top": 208.5625,
+        "bottom": 222.953125,
+        "left": 20,
+        "right": 300
+      },
+      "buttons": {
+        "top": 557.4375,
+        "bottom": 605.4375,
+        "left": 20,
+        "right": 300
+      },
+      "bottom": {
+        "top": 759,
+        "bottom": 820,
+        "left": 20,
+        "right": 300
+      },
+      "photo": {
+        "top": 1168.578125,
+        "bottom": 1273.921875,
+        "left": 118.7265625,
+        "right": 201.2734375
+      },
+      "name": {
+        "top": 1339,
+        "bottom": 1416.5,
+        "left": 31,
+        "right": 289
+      },
+      "bodySize": "15px"
+    }
+  ],
+  "errors": [],
+  "localFailures": [],
+  "contrast": [
+    {
+      "selector": ".ability-description",
+      "ratio": 9.747326414833013
+    },
+    {
+      "selector": ".ability-panel .tags>span",
+      "ratio": 10.202588338617808
+    },
+    {
+      "selector": ".ability-proof",
+      "ratio": 9.72923608581413
+    },
+    {
+      "selector": ".ability-panel h3",
+      "ratio": 11.998882920566086
+    },
+    {
+      "selector": ".ability-description",
+      "ratio": 9.747326414833013
+    },
+    {
+      "selector": ".ability-panel .tags>span",
+      "ratio": 10.202588338617808
+    },
+    {
+      "selector": ".ability-proof",
+      "ratio": 9.72923608581413
+    },
+    {
+      "selector": ".ability-panel h3",
+      "ratio": 11.998882920566086
+    },
+    {
+      "selector": ".ability-description",
+      "ratio": 9.747326414833013
+    },
+    {
+      "selector": ".ability-panel .tags>span",
+      "ratio": 10.202588338617808
+    },
+    {
+      "selector": ".ability-proof",
+      "ratio": 9.72923608581413
+    },
+    {
+      "selector": ".ability-panel h3",
+      "ratio": 11.998882920566086
+    },
+    {
+      "selector": ".ability-description",
+      "ratio": 9.747326414833013
+    },
+    {
+      "selector": ".ability-panel .tags>span",
+      "ratio": 10.202588338617808
+    },
+    {
+      "selector": ".ability-proof",
+      "ratio": 9.72923608581413
+    },
+    {
+      "selector": ".ability-panel h3",
+      "ratio": 11.998882920566086
+    }
+  ]
+}

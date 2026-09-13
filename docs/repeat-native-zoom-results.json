@@ -1,0 +1,137 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "native zoom 1.25 home",
+      "passed": true,
+      "info": {
+        "width": 1152,
+        "height": 720,
+        "dpr": 1.25,
+        "scrollWidth": 1152,
+        "headerTop": 0
+      }
+    },
+    {
+      "name": "native zoom 1.25 about",
+      "passed": true,
+      "info": {
+        "width": 1152,
+        "height": 720,
+        "dpr": 1.25,
+        "scrollWidth": 1152,
+        "headerTop": 0
+      }
+    },
+    {
+      "name": "native zoom 1.25 projects",
+      "passed": true,
+      "info": {
+        "width": 1152,
+        "height": 720,
+        "dpr": 1.25,
+        "scrollWidth": 1152,
+        "headerTop": 0
+      }
+    },
+    {
+      "name": "native zoom 1.25 abilities",
+      "passed": true,
+      "info": {
+        "width": 1152,
+        "height": 720,
+        "dpr": 1.25,
+        "scrollWidth": 1152,
+        "headerTop": 0
+      }
+    },
+    {
+      "name": "native zoom 1.25 experience",
+      "passed": true,
+      "info": {
+        "width": 1152,
+        "height": 720,
+        "dpr": 1.25,
+        "scrollWidth": 1152,
+        "headerTop": 0
+      }
+    },
+    {
+      "name": "native zoom 1.25 contact",
+      "passed": true,
+      "info": {
+        "width": 1152,
+        "height": 720,
+        "dpr": 1.25,
+        "scrollWidth": 1152,
+        "headerTop": 0
+      }
+    },
+    {
+      "name": "native zoom 1.5 home",
+      "passed": true,
+      "info": {
+        "width": 960,
+        "height": 600,
+        "dpr": 1.5,
+        "scrollWidth": 960,
+        "headerTop": 0
+      }
+    },
+    {
+      "name": "native zoom 1.5 about",
+      "passed": true,
+      "info": {
+        "width": 960,
+        "height": 600,
+        "dpr": 1.5,
+        "scrollWidth": 960,
+        "headerTop": 0
+      }
+    },
+    {
+      "name": "native zoom 1.5 projects",
+      "passed": true,
+      "info": {
+        "width": 960,
+        "height": 600,
+        "dpr": 1.5,
+        "scrollWidth": 960,
+        "headerTop": 0
+      }
+    },
+    {
+      "name": "native zoom 1.5 abilities",
+      "passed": true,
+      "info": {
+        "width": 960,
+        "height": 600,
+        "dpr": 1.5,
+        "scrollWidth": 960,
+        "headerTop": 0
+      }
+    },
+    {
+      "name": "native zoom 1.5 experience",
+      "passed": true,
+      "info": {
+        "width": 960,
+        "height": 600,
+        "dpr": 1.5,
+        "scrollWidth": 960,
+        "headerTop": 0
+      }
+    },
+    {
+      "name": "native zoom 1.5 contact",
+      "passed": true,
+      "info": {
+        "width": 960,
+        "height": 600,
+        "dpr": 1.5,
+        "scrollWidth": 960,
+        "headerTop": 0
+      }
+    }
+  ]
+}

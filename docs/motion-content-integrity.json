@@ -1,0 +1,202 @@
+[
+  {
+    "path": "public/favicon.svg",
+    "same": true
+  },
+  {
+    "path": "public/fonts/NotoSansSC-VF-LICENSE.txt",
+    "same": true
+  },
+  {
+    "path": "public/fonts/NotoSansSC-VF.woff2",
+    "same": true
+  },
+  {
+    "path": "public/fonts/NotoSerifSC-VF-LICENSE.txt",
+    "same": true
+  },
+  {
+    "path": "public/fonts/NotoSerifSC-VF.woff2",
+    "same": true
+  },
+  {
+    "path": "public/images/characters-app.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/characters-qr.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/characters-query-original.png",
+    "same": true
+  },
+  {
+    "path": "public/images/characters-query.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/characters.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/market-logo.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-analysis.jpg",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-analysis.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-app.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-assessments.jpg",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-assessments.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-chat.jpg",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-chat.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-full-original.png",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-full.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-logo.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-music.jpg",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-music.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-personality.jpg",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-personality.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-profile.jpg",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-profile.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink-qr.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/mindlink.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/portfolio-qr.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/portrait-engraved.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/portrait.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/support-app.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/support-qr.webp",
+    "same": true
+  },
+  {
+    "path": "public/images/support.webp",
+    "same": true
+  },
+  {
+    "path": "public/media/minecraft-garden-poster.webp",
+    "same": true
+  },
+  {
+    "path": "public/media/minecraft-garden.mp4",
+    "same": true
+  },
+  {
+    "path": "public/media/minecraft-lake.mp4",
+    "same": true
+  },
+  {
+    "path": "public/media/portal-poster.png",
+    "same": true
+  },
+  {
+    "path": "public/media/portal-poster.webp",
+    "same": true
+  },
+  {
+    "path": "public/media/portal.webm",
+    "same": true
+  },
+  {
+    "path": "public/resumes/ai-automation.pdf",
+    "same": true
+  },
+  {
+    "path": "public/resumes/frontend-product.pdf",
+    "same": true
+  },
+  {
+    "path": "public/resumes/originals/A简历-张宸与4.24.pdf",
+    "same": true
+  },
+  {
+    "path": "public/resumes/originals/张宸与 简历.pdf",
+    "same": true
+  },
+  {
+    "path": "public/resumes/originals/张宸与简历 5.19.pdf",
+    "same": true
+  },
+  {
+    "path": "public/resumes/originals/简历张宸与4.15.pdf",
+    "same": true
+  },
+  {
+    "path": "public/resumes/product-delivery.pdf",
+    "same": true
+  },
+  {
+    "path": "public/resumes/python-robotics.pdf",
+    "same": true
+  },
+  {
+    "path": "src/data.js",
+    "same": true
+  }
+]

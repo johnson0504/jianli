@@ -1,0 +1,351 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "motion chunk loads",
+      "passed": true
+    },
+    {
+      "name": "future reveal prepared",
+      "passed": true
+    },
+    {
+      "name": "button inner magnetic motion bounded",
+      "passed": true,
+      "detail": {
+        "x": 6,
+        "y": -3.42
+      }
+    },
+    {
+      "name": "button hit area stable",
+      "passed": true
+    },
+    {
+      "name": "magnet returns to rest",
+      "passed": true
+    },
+    {
+      "name": "portrait responds to pointer",
+      "passed": true
+    },
+    {
+      "name": "local project cursor appears",
+      "passed": true
+    },
+    {
+      "name": "native cursor retained",
+      "passed": true
+    },
+    {
+      "name": "local cursor leaves cleanly",
+      "passed": true
+    },
+    {
+      "name": "rapid filter final choice",
+      "passed": true
+    },
+    {
+      "name": "filter leaves no transform or opacity residue",
+      "passed": true
+    },
+    {
+      "name": "hidden filtered cards inert",
+      "passed": true
+    },
+    {
+      "name": "anchor correct after filtering",
+      "passed": true
+    },
+    {
+      "name": "ability panel reserves height",
+      "passed": true,
+      "detail": [
+        391,
+        391,
+        391,
+        391
+      ]
+    },
+    {
+      "name": "rapid ability final state",
+      "passed": true
+    },
+    {
+      "name": "one accessible ability content",
+      "passed": true
+    },
+    {
+      "name": "accordion rapid reversal",
+      "passed": true
+    },
+    {
+      "name": "accordion native keyboard",
+      "passed": true
+    },
+    {
+      "name": "dialog restores opener focus",
+      "passed": true
+    },
+    {
+      "name": "offscreen entries reset for next visit",
+      "passed": true
+    },
+    {
+      "name": "hero replays 0",
+      "passed": true
+    },
+    {
+      "name": "repeated entrance 0",
+      "passed": true,
+      "detail": {
+        "state": "playing",
+        "opacity": 0.5287
+      }
+    },
+    {
+      "name": "entrance finishes 0",
+      "passed": true
+    },
+    {
+      "name": "hero replays 1",
+      "passed": true
+    },
+    {
+      "name": "repeated entrance 1",
+      "passed": true,
+      "detail": {
+        "state": "playing",
+        "opacity": 0.6639
+      }
+    },
+    {
+      "name": "entrance finishes 1",
+      "passed": true
+    },
+    {
+      "name": "hero replays 2",
+      "passed": true
+    },
+    {
+      "name": "repeated entrance 2",
+      "passed": true,
+      "detail": {
+        "state": "playing",
+        "opacity": 0.5933
+      }
+    },
+    {
+      "name": "entrance finishes 2",
+      "passed": true
+    },
+    {
+      "name": "side stamps removed",
+      "passed": true
+    },
+    {
+      "name": "signature is separate below photo",
+      "passed": true
+    },
+    {
+      "name": "shimmer runs on visible portrait",
+      "passed": true
+    },
+    {
+      "name": "shimmer angle advances",
+      "passed": true
+    },
+    {
+      "name": "offscreen shimmer pauses",
+      "passed": true
+    },
+    {
+      "name": "hidden document event pauses shimmer",
+      "passed": true
+    },
+    {
+      "name": "desktop effective layout at zoom 1.25",
+      "passed": true
+    },
+    {
+      "name": "desktop effective layout at zoom 1.5",
+      "passed": true
+    },
+    {
+      "name": "live reduced preference finishes filter",
+      "passed": true
+    },
+    {
+      "name": "live reduced preference reveals content",
+      "passed": true
+    },
+    {
+      "name": "live reduced preference clears parallax",
+      "passed": true
+    },
+    {
+      "name": "preferences can return to motion",
+      "passed": true
+    },
+    {
+      "name": "animated layout 1920",
+      "passed": true
+    },
+    {
+      "name": "direct hash content visible 1920",
+      "passed": true
+    },
+    {
+      "name": "animated layout 1536",
+      "passed": true
+    },
+    {
+      "name": "direct hash content visible 1536",
+      "passed": true
+    },
+    {
+      "name": "animated layout 1440",
+      "passed": true
+    },
+    {
+      "name": "direct hash content visible 1440",
+      "passed": true
+    },
+    {
+      "name": "animated layout 1366",
+      "passed": true
+    },
+    {
+      "name": "direct hash content visible 1366",
+      "passed": true
+    },
+    {
+      "name": "animated layout 1280",
+      "passed": true
+    },
+    {
+      "name": "direct hash content visible 1280",
+      "passed": true
+    },
+    {
+      "name": "animated layout 1113",
+      "passed": true
+    },
+    {
+      "name": "direct hash content visible 1113",
+      "passed": true
+    },
+    {
+      "name": "animated layout 768",
+      "passed": true
+    },
+    {
+      "name": "direct hash content visible 768",
+      "passed": true
+    },
+    {
+      "name": "animated layout 511",
+      "passed": true
+    },
+    {
+      "name": "direct hash content visible 511",
+      "passed": true
+    },
+    {
+      "name": "two-column tabs 511",
+      "passed": true
+    },
+    {
+      "name": "mobile horizontal keyboard 511",
+      "passed": true
+    },
+    {
+      "name": "mobile vertical keyboard 511",
+      "passed": true
+    },
+    {
+      "name": "touch has no parallax 511",
+      "passed": true
+    },
+    {
+      "name": "animated layout 390",
+      "passed": true
+    },
+    {
+      "name": "direct hash content visible 390",
+      "passed": true
+    },
+    {
+      "name": "two-column tabs 390",
+      "passed": true
+    },
+    {
+      "name": "mobile horizontal keyboard 390",
+      "passed": true
+    },
+    {
+      "name": "mobile vertical keyboard 390",
+      "passed": true
+    },
+    {
+      "name": "touch has no parallax 390",
+      "passed": true
+    },
+    {
+      "name": "animated layout 320",
+      "passed": true
+    },
+    {
+      "name": "direct hash content visible 320",
+      "passed": true
+    },
+    {
+      "name": "two-column tabs 320",
+      "passed": true
+    },
+    {
+      "name": "mobile horizontal keyboard 320",
+      "passed": true
+    },
+    {
+      "name": "mobile vertical keyboard 320",
+      "passed": true
+    },
+    {
+      "name": "touch has no parallax 320",
+      "passed": true
+    },
+    {
+      "name": "animation chunk failure leaves all content visible",
+      "passed": true
+    },
+    {
+      "name": "chunk failure retains interactions",
+      "passed": true
+    },
+    {
+      "name": "no application errors",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "performance": [
+    {
+      "width": 1440,
+      "samples": 239,
+      "median": 12.5,
+      "p95": 25.099999999998545,
+      "max": 41.599999999998545,
+      "over50ms": 0
+    },
+    {
+      "width": 390,
+      "samples": 239,
+      "median": 4.299999999995634,
+      "p95": 20.900000000001455,
+      "max": 125.09999999999854,
+      "over50ms": 4
+    }
+  ]
+}

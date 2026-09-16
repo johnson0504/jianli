@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: jianli-portfolio
+    runtime: static
+    repo: https://github.com/johnson0504/jianli.git
+    branch: main
+    buildCommand: npm ci && VITE_BASE=/ npm run build
+    staticPublishPath: ./dist
+    autoDeployTrigger: commit

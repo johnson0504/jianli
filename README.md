@@ -57,13 +57,13 @@ npm run preview
 
 当前版本采用明亮纸感：米白背景、鼠尾草绿强调色、Minecraft 暖阳林间视频，以及横向纸币式真实头像。首屏使用森林色渐变遮罩保证文字可读性；能力模块与联系区采用纸色底上的独立森林绿章节：桌面外沿 24px / 圆角 24px，手机外沿 12px / 圆角 16px；能力详情以分隔线与轻微色差组织层次。经历模块使用浅色工作手记和证据卡，形成明暗节奏。中文标题使用本地托管的思源宋体子集，正文使用本地托管的思源黑体子集，避免系统字体差异。
 
-## GitHub Pages
+## 公网部署
 
-目标公开仓库为 `johnson0504/jianli`，主分支为 `main`。已配置 `.github/workflows/deploy.yml`：Node.js 22 → `npm ci` → 生产构建 → GitHub Actions Pages。当前本机旧凭据返回 401，需完成官方设备登录才能推送并启用 Pages；尚未上线。
+目标公开仓库为 `johnson0504/jianli`，主分支为 `main`。GitHub Pages 使用 `.github/workflows/deploy.yml`：Node.js 22 → `npm ci` → `VITE_BASE=/jianli/ npm run build` → GitHub Actions Pages。Render 使用根目录的 `render.yaml`，创建 Static Site：`npm ci && VITE_BASE=/ npm run build`，发布 `dist/`。
 
-生产构建与 `npm run preview` 使用 `/jianli/`，开发服务器使用 `/`。生产预览应打开 `http://127.0.0.1:4173/jianli/`（端口以终端输出为准）；包含末尾斜杠。图片、视频、PDF 通过 Vite BASE_URL 解析，字体使用构建重写后的 `/jianli/fonts/` 路径，异步动效模块随构建输出。网站使用单页 hash 导航。
+GitHub Pages 地址为 `https://johnson0504.github.io/jianli/`；Render 地址由服务名生成，通常为 `https://jianli-portfolio.onrender.com/`，若名称冲突则以 Render 控制台显示的地址为准。生产基础路径由 `VITE_BASE` 控制：Pages 使用 `/jianli/`，Render 使用 `/`，开发服务器使用 `/`。图片、视频、PDF、字体和异步动效模块均通过 Vite 基础路径解析，网站使用单页 hash 导航。
 
-发布步骤：在本机完成 `gh auth login --hostname github.com --git-protocol https --web`，核实账号为 `johnson0504` 后推送 `main`；仓库 Pages 的 Source 设为 GitHub Actions。等待部署工作流成功，再检查公网首页、锚点、视频、字体、图片、PDF 和动效模块。无需在聊天中提供密码或令牌。
+发布步骤：在本机完成 `gh auth login --hostname github.com --git-protocol https --web`，核实账号为 `johnson0504` 后推送 `main`；仓库 Pages 的 Source 使用 GitHub Actions。随后在 Render 通过 GitHub OAuth 连接同一仓库并创建 Static Site，使用 `render.yaml` 或等价配置。等待两个平台构建成功，再检查首页、锚点、视频、字体、图片、PDF 和动效模块。无需在聊天中提供密码或令牌。
 
 ## 已完成验证
 

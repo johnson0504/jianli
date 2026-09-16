@@ -34,7 +34,7 @@
 
 ## 发布状态
 
-目标公开仓库 `johnson0504/jianli`，基础路径 `/jianli/`，目标地址 https://johnson0504.github.io/jianli/ 。本地已初始化 main 并关联 origin，源码与部署配置准备完成。旧凭据验证返回 401，官方设备登录待用户完成；尚未推送、启用 Pages 或验证公网，不报告已上线。
+目标公开仓库 `johnson0504/jianli`，主分支 `main`。GitHub Pages 使用 `/jianli/`，Render Static Site 使用 `/`；对应配置为 `.github/workflows/deploy.yml` 与 `render.yaml`。本地已关联 origin，源码与双平台部署配置准备完成。旧凭据验证返回 401，官方设备登录待用户完成；尚未推送、启用 Pages、创建 Render 服务或验证公网，不报告已上线。
 
 ## 交付文件
 

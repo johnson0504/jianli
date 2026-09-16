@@ -59,11 +59,11 @@ npm run preview
 
 ## 公网部署
 
-目标公开仓库为 `johnson0504/jianli`，主分支为 `main`。GitHub Pages 使用 `.github/workflows/deploy.yml`：Node.js 22 → `npm ci` → `VITE_BASE=/jianli/ npm run build` → GitHub Actions Pages。Render 使用根目录的 `render.yaml`，创建 Static Site：`npm ci && VITE_BASE=/ npm run build`，发布 `dist/`。
+目标公开仓库为 `johnson0504/jianli`，主分支为 `main`。GitHub Pages 使用 `.github/workflows/deploy.yml`：Node.js 22 → `npm ci` → `VITE_BASE=/jianli/ npm run build` → GitHub Actions Pages。Render 使用根目录的 `render.yaml`，创建 Static Site：`npm ci && VITE_BASE=/ npm run build`，发布 `dist/`。两处均已完成部署。
 
-GitHub Pages 地址为 `https://johnson0504.github.io/jianli/`；Render 地址由服务名生成，通常为 `https://jianli-portfolio.onrender.com/`，若名称冲突则以 Render 控制台显示的地址为准。生产基础路径由 `VITE_BASE` 控制：Pages 使用 `/jianli/`，Render 使用 `/`，开发服务器使用 `/`。图片、视频、PDF、字体和异步动效模块均通过 Vite 基础路径解析，网站使用单页 hash 导航。
+GitHub Pages 地址为 `https://johnson0504.github.io/jianli/`；Render 地址为 `https://jianli-portfolio.onrender.com/`。生产基础路径由 `VITE_BASE` 控制：Pages 使用 `/jianli/`，Render 使用 `/`，开发服务器使用 `/`。图片、视频、PDF、字体和异步动效模块均通过 Vite 基础路径解析，网站使用单页 hash 导航。
 
-发布步骤：在本机完成 `gh auth login --hostname github.com --git-protocol https --web`，核实账号为 `johnson0504` 后推送 `main`；仓库 Pages 的 Source 使用 GitHub Actions。随后在 Render 通过 GitHub OAuth 连接同一仓库并创建 Static Site，使用 `render.yaml` 或等价配置。等待两个平台构建成功，再检查首页、锚点、视频、字体、图片、PDF 和动效模块。无需在聊天中提供密码或令牌。
+发布步骤已完成：GitHub Actions 与 Render Static Site 构建均成功。后续推送 `main` 会分别触发更新。无需在聊天中提供密码或令牌。
 
 ## 已完成验证
 
@@ -74,6 +74,7 @@ GitHub Pages 地址为 `https://johnson0504.github.io/jianli/`；Render 地址�
 - 四份简历 URL 返回 200，文件头确认为 PDF。
 - 前版 124 项报告保存在 `work/qa/feedback/qa-results.json`；本次动效版本报告为 `work/qa/motion/qa-results.json` 与 `work/qa/motion/interaction-results.json`，最终副本见 `docs/qa-motion-results.json` 和 `docs/qa-motion-interactions.json`。
 - 前版截图保存在 `outputs/previews/motion/`；本次重播版本截图在 `outputs/previews/repeat/`，脚本与原始报告在 `work/qa/repeat/`。
+- 公网验收报告位于 `work/qa/render/public-results.json`，脚本为 `work/qa-render-public.cjs`；GitHub Pages Actions 运行记录：`https://github.com/johnson0504/jianli/actions/runs/35133428643`。
 
 ## 外部作品的访问边界
 
